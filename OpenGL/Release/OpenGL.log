@@ -1,0 +1,4 @@
+﻿  main.cpp
+  SMObject.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+MyVehicle.obj : warning LNK4248: unresolved typeref token (0100001B) for 'GLUquadric'; image may not run
+  OpenGL.vcxproj -> H:\Executables\OpenGL.exe
